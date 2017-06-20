@@ -1,0 +1,111 @@
+<map>
+<entry>
+  <string>Card1</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4556233320514455</cardNumber> 
+  <cardType>Visa Debit</cardType> 
+  <nameOnCard>Ragul</nameOnCard> 
+  <expiryMonth>9</expiryMonth> 
+  <expiryYear>2019</expiryYear> 
+  <securityCode>411</securityCode> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card2</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4716089198969768</cardNumber> 
+  <cardType>Visa Delta</cardType> 
+  <nameOnCard>Ramdin</nameOnCard> 
+  <expiryMonth>5</expiryMonth> 
+  <expiryYear>2019</expiryYear> 
+  <securityCode>412</securityCode> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card3</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4024007195841290</cardNumber> 
+  <cardType>Visa Credit Card</cardType> 
+  <nameOnCard>Ranjith</nameOnCard> 
+  <expiryMonth>6</expiryMonth> 
+  <expiryYear>2018</expiryYear>
+  <securityCode>414</securityCode>  
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card4</string> 
+- <MakeAPaymentCardDetails>
+  <cardNumber>5406563467013054</cardNumber> 
+  <cardType>MasterCard</cardType> 
+  <nameOnCard>Gayle</nameOnCard> 
+  <expiryMonth>7</expiryMonth> 
+  <expiryYear>2018</expiryYear> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card5</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4227661156934588</cardNumber> 
+  <cardType>Visa Debit</cardType> 
+  <nameOnCard>Chris</nameOnCard> 
+  <expiryMonth>8</expiryMonth> 
+  <expiryYear>2019</expiryYear> 
+  <securityCode>415</securityCode> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card6</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4916013308346160</cardNumber> 
+  <cardType>Visa Delta</cardType> 
+  <nameOnCard>Steyn</nameOnCard> 
+  <expiryMonth>4</expiryMonth> 
+  <expiryYear>2020</expiryYear> 
+  </MakeAPaymentCardDetails>
+  <securityCode>416</securityCode> 
+</entry>
+<entry>
+  <string>Card7</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4024007100569572</cardNumber> 
+  <cardType>Visa Credit Card</cardType> 
+  <nameOnCard>Morkel</nameOnCard> 
+  <expiryMonth>3</expiryMonth> 
+  <expiryYear>2021</expiryYear> 
+  <securityCode>417</securityCode> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card8</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>5548212867471988</cardNumber> 
+  <cardType>MasterCard</cardType> 
+  <nameOnCard>Victor</nameOnCard> 
+  <expiryMonth>9</expiryMonth> 
+  <expiryYear>2019</expiryYear> 
+  <securityCode>418</securityCode>
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card9</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4916674674367880</cardNumber> 
+  <cardType>Visa Debit</cardType> 
+  <nameOnCard>Richard</nameOnCard> 
+  <expiryMonth>7</expiryMonth> 
+  <expiryYear>2017</expiryYear> 
+  <securityCode>419</securityCode>
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card10</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4539777800734654</cardNumber> 
+  <cardType>Visa Delta</cardType> 
+  <nameOnCard>Vettori</nameOnCard> 
+  <expiryMonth>8</expiryMonth> 
+  <expiryYear>2022</expiryYear> 
+  <securityCode>420</securityCode>
+  </MakeAPaymentCardDetails>
+</entry>
+  </map>
